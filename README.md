@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00D1FF&height=120&section=header&text=📱%20𝑴𝒀%20𝑪𝑶𝑵𝑻𝑨𝑪𝑻%20𝑷𝑹𝑶:%20𝑪𝑹𝑼𝑫%20𝑺𝒀𝑺𝑻𝑬𝑴&fontSize=35&fontColor=ffffff" width="100%"/>
 
-</div>
+</div>        
 
 📝 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘: 𝑴𝒖𝒌𝒂𝒎𝒎𝒂𝒍 𝑲𝒐𝒏𝒕𝒂𝒌𝒕 𝑩𝒐𝒔𝒉𝒒𝒂𝒓𝒖𝒗𝒊
 My Contact PRO — bu Kotlin tilida Clean Architecture tamoyillari asosida ishlab chiqilgan, xavfsizlik va aniqlikka yo'naltirilgan kontaktlarni boshqarish tizimidir. Loyiha nafaqat ma'lumotlarni saqlaydi, balki kiritilgan ma'lumotlarni qat'iy filtrlar (Regex) orqali o'tkazadi va kutilmagan xatoliklarni (Exceptions) aqlli boshqaradi.
