@@ -67,6 +67,3 @@ d style="vertical-align: middle; padding-left: 20px;">
 </td>
 </tr>
 </table>
-
-
-aslzoda
